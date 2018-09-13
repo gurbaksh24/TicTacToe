@@ -1,0 +1,12 @@
+C:\Users\ggabbi\source\repos\TicTacToeGame\SqlDatabase\bin\Debug\netcoreapp2.1\SqlDatabase.deps.json
+C:\Users\ggabbi\source\repos\TicTacToeGame\SqlDatabase\bin\Debug\netcoreapp2.1\SqlDatabase.dll
+C:\Users\ggabbi\source\repos\TicTacToeGame\SqlDatabase\bin\Debug\netcoreapp2.1\SqlDatabase.pdb
+C:\Users\ggabbi\source\repos\TicTacToeGame\SqlDatabase\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ggabbi\source\repos\TicTacToeGame\SqlDatabase\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+C:\Users\ggabbi\source\repos\TicTacToeGame\SqlDatabase\obj\Debug\netcoreapp2.1\SqlDatabase.csprojAssemblyReference.cache
+C:\Users\ggabbi\source\repos\TicTacToeGame\SqlDatabase\obj\Debug\netcoreapp2.1\SqlDatabase.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\source\repos\TicTacToeGame\SqlDatabase\obj\Debug\netcoreapp2.1\SqlDatabase.AssemblyInfoInputs.cache
+C:\Users\ggabbi\source\repos\TicTacToeGame\SqlDatabase\obj\Debug\netcoreapp2.1\SqlDatabase.AssemblyInfo.cs
+C:\Users\ggabbi\source\repos\TicTacToeGame\SqlDatabase\obj\Debug\netcoreapp2.1\SqlDatabase.csproj.CopyComplete
+C:\Users\ggabbi\source\repos\TicTacToeGame\SqlDatabase\obj\Debug\netcoreapp2.1\SqlDatabase.dll
+C:\Users\ggabbi\source\repos\TicTacToeGame\SqlDatabase\obj\Debug\netcoreapp2.1\SqlDatabase.pdb

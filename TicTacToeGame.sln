@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeGame", "TicTacToeGame\TicTacToeGame.csproj", "{217449AE-B833-48FA-B1C0-31D0479A038A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlDatabase", "SqlDatabase\SqlDatabase.csproj", "{AF0AD76C-7986-4492-98FE-0399D92616ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{217449AE-B833-48FA-B1C0-31D0479A038A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217449AE-B833-48FA-B1C0-31D0479A038A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217449AE-B833-48FA-B1C0-31D0479A038A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217449AE-B833-48FA-B1C0-31D0479A038A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0AD76C-7986-4492-98FE-0399D92616ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0AD76C-7986-4492-98FE-0399D92616ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0AD76C-7986-4492-98FE-0399D92616ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0AD76C-7986-4492-98FE-0399D92616ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82353608-8383-462D-80F7-DA77154B8D8E}
+	EndGlobalSection
+EndGlobal
