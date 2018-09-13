@@ -1,0 +1,17 @@
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\bin\Release\netcoreapp2.1\TicTacToeGame.deps.json
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\bin\Release\netcoreapp2.1\TicTacToeGame.runtimeconfig.json
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\bin\Release\netcoreapp2.1\TicTacToeGame.runtimeconfig.dev.json
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\bin\Release\netcoreapp2.1\TicTacToeGame.dll
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\bin\Release\netcoreapp2.1\TicTacToeGame.pdb
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\bin\Release\netcoreapp2.1\SqlDatabase.dll
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\bin\Release\netcoreapp2.1\SqlDatabase.pdb
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\netcoreapp2.1\TicTacToeGame.csprojAssemblyReference.cache
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\netcoreapp2.1\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\netcoreapp2.1\TicTacToeGame.RazorAssemblyInfo.cache
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\netcoreapp2.1\TicTacToeGame.RazorAssemblyInfo.cs
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\netcoreapp2.1\TicTacToeGame.AssemblyInfoInputs.cache
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\netcoreapp2.1\TicTacToeGame.AssemblyInfo.cs
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\netcoreapp2.1\TicTacToeGame.RazorTargetAssemblyInfo.cache
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\netcoreapp2.1\TicTacToeGame.csproj.CopyComplete
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\netcoreapp2.1\TicTacToeGame.dll
+C:\Users\ggabbi\source\repos\TicTacToeGame\TicTacToeGame\obj\Release\netcoreapp2.1\TicTacToeGame.pdb
